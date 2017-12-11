@@ -26,6 +26,7 @@ Accéder à un sandwich: (via un get)
 
 Paramètres possibles:
 >sandwich?t=&img=&p=&s=
+
 t est le type de pain,
 img est l'image,
 p est la page,
